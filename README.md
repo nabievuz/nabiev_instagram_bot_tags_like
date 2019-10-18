@@ -1,0 +1,1 @@
+Your instagram profile will automatically click "like" on other people's posts.

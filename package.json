@@ -1,0 +1,15 @@
+{
+  "name": "nabiev_instagram_bot_tags_like",
+  "version": "1.0.0",
+  "description": "instagram bot puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akmaljon Nabiev",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
